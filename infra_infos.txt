@@ -1,0 +1,3 @@
+depend:simple_gui
+CFLAGS:-D__STDC_LIMIT_MACROS
+LDFLAGS:
